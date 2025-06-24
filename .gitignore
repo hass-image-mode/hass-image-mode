@@ -1,5 +1,3 @@
-config.json
-config.toml
 manifest-*.json
 qcow2/*
 bootiso/*
